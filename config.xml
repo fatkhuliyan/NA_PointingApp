@@ -20,7 +20,6 @@
   
   <plugin name="cordova-plugin-inappbrowser" />
   <plugin name="cordova-plugin-whitelist" version="1" />
-  <plugin name="org.apache.cordova.network-information" spec="0.2.15" source="pgb" />
     
   <access origin="*" />
   <allow-intent href="https://*/*" />
